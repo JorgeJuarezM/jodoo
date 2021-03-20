@@ -9,7 +9,7 @@ future==0.16.0
 html2text==2019.9.26
 idna==2.8
 jedi==0.12.1
-Jinja2==2.10.1
+Jinja2==2.11.3
 json-rpc==1.12.1
 libsass==0.19.2
 lxml==4.4.1
